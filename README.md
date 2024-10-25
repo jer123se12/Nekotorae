@@ -23,4 +23,4 @@ All 3D models & animations were done by [@Leroy-Hong](https://www.github.com/Ler
 90% of the programming was done by [@jer123se12](https://github.com/jer123se12)
 
 ## Poster
-<img width="1754" height="2480" src="docs/NekotoraePoster.png" alt="NekoTorae logo"/>
+<img src="docs/NekotoraePoster.png" alt="NekoTorae logo"/>
